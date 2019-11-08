@@ -1,0 +1,19 @@
+h1{
+    color:white;
+    text-align: center;
+    background-color: black;
+}
+body{
+    background-image: url("../images/02_jpg.jpg")
+}
+
+h3{
+    color: cadetblue;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h4{color: blue;}
+p{
+    color:blueviolet;
+}
