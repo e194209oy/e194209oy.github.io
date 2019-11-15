@@ -1,0 +1,27 @@
+h1{
+   background-color: aqua;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+body{
+    background-image: url("../images/02_jpg.jpg")
+}
+
+h3{
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+}
+
+tr{
+    background-color: darkseagreen;
+}
+
+td{
+    background-color: darkseagreen;
+}
+ol{
+    background-image: url("../images/images.jfif")
+}
