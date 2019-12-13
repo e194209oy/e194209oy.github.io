@@ -1,0 +1,69 @@
+div.title{
+    background-color: gray;
+    width:1000px;
+    height: 40px;
+}
+div.zentai{ 
+    font-size: 0;
+    width:1000px;
+    height:320;
+    background-color:fuchsia;
+    display: inline-block;
+}
+div.menu{
+    vertical-align: top;
+    width:250px;
+    height: 320px;
+    float:left;
+    background-color: gray;
+    margin-top: 20px;
+    margin-left: 0px;
+     display: inline-block;
+   
+}
+h4.menu{
+    margin: 10px;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: red;
+    color: black;
+    width: 250px;
+    height: 100px;
+   
+    font-size:25px;
+}
+div.gazou{
+    width:700px;
+    height: 320px;
+    margin-top: 20px;
+    vertical-align: top;
+    background-color: black;
+    display: inline-block;
+    float:right;
+    margin-left: 50px;
+}
+div.img{
+    width:700px;
+    height: 300px;
+    margin: 0px;
+    display: inline-block;
+}
+div.samon{
+    width: 700px;
+    height: 20px;
+    background-color:chartreuse;
+    font-size:10px;
+    margin: 0px;
+    display: inline-block;
+}
+h4.samon{
+    width:400px;
+    height: 20px;
+    margin: 0px;
+}
+div.futter{
+    background-color: sandybrown;
+    width:1000px;
+    height: 40px;
+    margin-top: 20px;
+}
