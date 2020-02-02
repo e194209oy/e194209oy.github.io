@@ -1,0 +1,74 @@
+body{
+    background-image: url(../images/haieki4.png);
+}
+h1.gaiyou{
+    background-color:darkviolet;
+    color:white;
+    text-align: center;
+    font-size: 50px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.setumei{
+    text-align: center;
+    background-color:fuchsia;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h3.setumei{
+    font-size: 40px;
+}
+p.setumei{
+    font-size: 20px;
+}
+div.dice{
+    background-color: darkseagreen;
+    text-align: center;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3.dice{
+    font-size: 40px;
+}
+div.hana{
+     background-color:aquamarine;
+    text-align: center;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2.hana{
+    font-size: 40px; 
+    color: dodgerblue;
+}
+h3.hana{
+    font-size: 30px;
+}
+div.rurubu{
+    text-align: center;
+    background-color: firebrick;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.pege{
+margin-top: 30px;
+width:1000px;
+font-size: 35px;
+    height: 60px;
+margin-left:124px;
+ display: inline; 
+ background-color:aquamarine;
+    color: dodgerblue;
+
+}
+a.pege{
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
